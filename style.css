@@ -1,0 +1,18 @@
+#svgDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    z-index: 10;
+}
+
+/*hard mode*/
+/* path {
+    stroke-width: 0;
+    /* stroke: none; */
+    fill-rule: nonzero;
+    shape-rendering: crispEdges;
+} */
